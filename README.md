@@ -1,1 +1,1 @@
-# Messaging_Service_Prototype
+# IGNITE-Chat-App
